@@ -1,6 +1,7 @@
 # My First Project!
 So I Want to Create an About-Me, Blog-Like page<br>
-I want to show my passion for coding, but also show my passion for writing things and creating contents in general<br>
+I want to show my passion for coding, but also show my passion for: 
+- writing things and creating contents in general.
 - Also I want to show them what I like, for example reading, talking, etc.
 - Also my SWOT Analysis for myself.
 - My Achievements.
