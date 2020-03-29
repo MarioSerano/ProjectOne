@@ -34,7 +34,8 @@ This Readme-MD specifically most likely on my personal projects will be my blog 
 # Timeline
 Most likely I'll be doing this project after midterm, going to do this for at least a month.<br>
 Sorry if this doesnt update though, since I have few things to study as well, such as:
-- Flutter(for Hackathon competition), and
+- Flutter(for Hackathon competition), 
+- COMPFEST(I was told to learn parallax design), and
 - Data Structures & Algorithm(for internship, unlikely though).
 I'll update this ASAP if I have the time!
 
