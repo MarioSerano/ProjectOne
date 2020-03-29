@@ -17,8 +17,9 @@ But I want this to be as good as possible, the best about-me and blog ever!
 # Languages planning to be used
 I plan on using few languages in mind, also few ideas that I want to implement.<br>
 I want to implement:
-- CRUD
-- ??
+- CRUD.
+- ??.
+
 Languages I want to use are the languages/frameworks that I've been learning, as follows:
 - Gatsby/React/GraphQL for frontend development,
 - Django for backend development.
