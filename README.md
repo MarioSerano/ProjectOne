@@ -31,4 +31,11 @@ So yeah on other projects I plan to use(also) few other Javascript stacks, plann
 # Disclaimer
 This Readme-MD specifically most likely on my personal projects will be my blog also, since I want to write down my thought process facing projects, and also show how far I've become, but most importantly for other people to be motivated and encouraged to just make your own personal projects as your own diary!
 
+# Timeline
+Most likely I'll be doing this project after midterm, going to do this for at least a month.<br>
+Sorry if this doesnt update though, since I have few things to study as well, such as:
+- Flutter(for Hackathon competition), and
+- Data Structures & Algorithm(for internship, unlikely though).
+I'll update this ASAP if I have the time!
+
 # LET'S CODE!
